@@ -1,0 +1,15 @@
+p {
+ font-size: 60px;
+ color: #00FFFF;
+ border-style: dotted;
+ width: 50%;
+ }
+ h1{font-size: 100px;
+ }
+ h2+h3+h4+h5 {
+ 	color: #6495ED;
+ 	padding: 100px;
+ }
+body {
+	background-color: #FFD700;
+}
