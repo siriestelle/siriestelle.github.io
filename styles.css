@@ -1,15 +1,47 @@
 p {
- font-size: 60px;
- color: #00FFFF;
- border-style: dotted;
- width: 50%;
+ font-size: 20px;
+ border: dotted #FF7F50;
+ width: 30%;
  }
- h1{font-size: 100px;
+ h1{
+ 	font-size: 30px;
+ 	color:	#7FFFD4;
+ 	margin: 0;
  }
- h2+h3+h4+h5 {
+ h2{
+ 	font-size: 30px;
  	color: #6495ED;
- 	padding: 100px;
+ 	/*padding: 100px;*/
  }
 body {
-	background-color: #FFD700;
+	background-color: #FFEBCDs;
+}
+.background-image{
+	background-image: url("träd.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 731px;
+	padding-top: 400px;
+}
+.contact{
+	font-size: 30px;
+ 	width: 30%;
+}
+.huvudrubrik{
+font-size: 80px;
+}
+.bilder{
+	width: 200px;
+}
+.skargarden{
+	width: 200px;
+}
+.sirithailand{
+	height: 200px;
+}
+.dagensträdsiripalm{
+	width: 200px;
+}
+.thailandedition{
+	width: 200px;
 }
