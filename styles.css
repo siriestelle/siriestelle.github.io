@@ -29,6 +29,8 @@ body {
 }
 .huvudrubrik{
 font-size: 80px;
+font-family: 'Slabo 27px', serif;
+font-family: 'Indie Flower', cursive;
 }
 .bilder{
 	width: 200px;
